@@ -17,7 +17,7 @@ exports.handler = async function http(req) {
     </h1>
 
     <p class="center-text">
-      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
+      Your <a href="https://www.nseindia.com/api/quote-equity?symbol=HDFCBANK&section=trade_info" class="link" target="_blank">NSE BANK</a> app is ready to go!
     </p>
 
   </body>
